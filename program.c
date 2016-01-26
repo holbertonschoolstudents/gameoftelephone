@@ -1,5 +1,10 @@
 program
 {
+  feature1;
   feature2;
   feature3;
+  feature5;
+  feature7;
+  feature13;
+  feature15;
 }
