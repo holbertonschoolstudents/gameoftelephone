@@ -3,4 +3,8 @@ program
   feature7;
   feature19;
   feature11;
+  feature2;
+  feature5;
+  feature13;
+  feature15;
 }
