@@ -2,7 +2,7 @@ program
 {
 
   /*
-    The compose a feature, write the following:
+    To compose a feature, write the following:
 
     featureX;
 
