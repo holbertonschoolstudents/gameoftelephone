@@ -1,6 +1,5 @@
 program
 {
-
   /*
     To compose a feature, write the following:
 
@@ -24,7 +23,12 @@ program
 
    */
 
-  feature19; Something_diffent
+  feature1;
+  feature2;
   feature3; be_creative
-
+  feature5;
+  feature7;
+  feature13;
+  feature15;
+  feature19;
 }
