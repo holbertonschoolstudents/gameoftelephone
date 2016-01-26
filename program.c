@@ -27,5 +27,7 @@ program
   //Feature set goes here. delete me.
 
   feature1
+  feature2
+  feature3
 
 }
