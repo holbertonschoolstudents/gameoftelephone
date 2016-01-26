@@ -1,5 +1,9 @@
 program
 {
+<<<<<<< HEAD
+=======
+
+>>>>>>> conflict
   /*
     To compose a feature, write the following:
 
@@ -23,12 +27,21 @@ program
 
    */
 
+<<<<<<< HEAD
+=======
+  feature7;
+  feature19;
+  feature11;
+>>>>>>> conflict
   feature1;
   feature2;
   feature3; be_creative
   feature5;
-  feature7;
   feature13;
   feature15;
+<<<<<<< HEAD
   feature19;
+=======
+  featureAlex;
+>>>>>>> conflict
 }
