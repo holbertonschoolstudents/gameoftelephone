@@ -1,9 +1,9 @@
 program
 {
 
-    feature5;
-    feature10;
-    feature17;
+  feature5;
+  feature10;
+  feature17;
   feature7;
   feature19;
   feature11;
